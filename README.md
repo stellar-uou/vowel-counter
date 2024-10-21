@@ -12,11 +12,3 @@ This is a simple Python program that counts the number of vowels in a given word
 
 - Python 3.x
 - Standard library (no external libraries needed)
-
-## How to Run
-
-To run the vowel counter, follow the steps below:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/repository_name.git
